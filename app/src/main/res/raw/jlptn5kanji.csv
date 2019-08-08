@@ -1,0 +1,101 @@
+﻿Id,Kana,Kanji,Type,Definition/s
+0,ああ,,int,"Ah!, Oh!"
+1,あう,会う,u-v,"to meet, to see"
+2,あお,青,n,blue
+3,あおい,青い,adj,blue
+4,あか,赤,n,red
+5,あかい,赤い,adj,red
+6,あかるい,明るい,adj,"bright, cheerful"
+7,あき,秋,n-adv,"autumn, fall"
+8,あく,開く,"u-v,vi","to open, to become open"
+9,あける,開ける,ru-v,to open
+10,あげる,上げる,ru-v,to give
+11,あさ,朝,"n-adv,n-t",morning
+12,あさごはん,朝御飯,n,breakfast
+13,あさって,,"n-adv,n-t",day after tomorrow
+14,あし,足,n,"foot, leg"
+15,あした,,n-t,tomorrow
+16,あそこ,,n,"there, over there, that place"
+17,あそぶ,遊ぶ,u-v,"to play, to enjoy oneself"
+18,あたたかい,暖かい,adj,"warm, mild"
+19,あたま,頭,n,head
+20,あたらしい,新しい,adj,new
+21,あちら,,n,"there, yonder, that"
+22,あつい,暑い,adj,"hot, warm"
+23,あつい,熱い,adj,hot (thing)
+24,あつい,厚い,adj,"kind, warm(hearted), thick, deep"
+25,あっち,,n col,over there
+26,あと,後,"adj-no,n","afterwards, since then, in the future"
+27,あなた,,n,you
+28,あに,兄,n,(hum) older brother
+29,あね,姉,n,(hum) older sister
+30,あの,,pren-adj,that over there
+31,あの,,int,um...
+32,アパート,,"n,adv",apartment (abbr)
+33,あびる,,ru-v,"to bathe, to shower"
+34,あぶない,危ない,adj,"dangerous, critical, watch out!"
+35,あまい,甘い,"adj,expr","generous, sweet"
+36,あまり,,"na-adj,adv,n,n-suf","not very, not much"
+37,あめ,雨,n,rain
+38,あめ,飴,n,"(hard) candy, toffee"
+39,あらう,洗う,u-v,to wash
+40,ある [存在],,u-v-i,to be
+41,ある [所有],,u-v-i,to have
+42,あるく,歩く,u-v,to walk
+43,あれ,,"int,n","that, that thing"
+44,いい/よい,,adj,good
+45,いいえ,,"int,n","no, not at all"
+46,いう,言う,u-v,to say
+47,いえ,家,suf,"house, family"
+48,いかが,,"na-adj,adv,n","how, in what way"
+49,いく/ゆく,行く,u-v,to go
+50,いくつ,,n,"how many?, how old?"
+51,いくら,,"adv,n","how much?, how many?"
+52,いけ,池,n,pond
+53,いしゃ,医者,n,doctor (medical)
+54,いす,,n,chair
+55,いそがしい,忙しい,adj,"busy, irritated"
+56,いたい,痛い,adj,painful
+57,いち,一,num,one
+58,いちにち,一日,n,1 day (duration)
+59,いちばん,,n-adv,"best, first, number one"
+60,いつ,,gn-adv,when
+61,いつか,五日,n,"five days, the fifth day (of the month)"
+62,いっしょ,一緒,"adv,n",together
+63,いつつ,五つ,n,five
+64,いつも,,"adv,n","always, every time"
+65,いぬ,犬,,dog
+66,いま,今,,now
+67,いみ,意味,"n,vs",meaning
+68,いもうと,妹,n,younger sister
+69,いや,嫌,"na-adj,n","disagreeable, no"
+70,いりぐち,入口,n,"entrance, gate"
+71,いる,居る,u-v,"(hum) to be (animate), to exist"
+72,いる,要る,u-v,to need
+73,いれる,入れる,ru-v,to put in
+74,いろ,色,n,colour
+75,いろいろ,,"na-adj,adj-no,adv,n",various
+76,うえ,上,"no-adj,n-adv,n,n-suf","above, on top of"
+77,うしろ,後ろ,n,"behind, rear"
+78,うすい,薄い,adj,"thin, weak"
+79,うた,歌,n,song
+80,うたう,歌う,u-v,to sing
+81,うち,,n,house (one's own)
+82,うまれる,生まれる,ru-v,to be born
+83,うみ,海,n,"sea, beach"
+84,うる,売る,u-v,to sell
+85,うるさい,,adj,"noisy, loud, annoying"
+86,うわぎ,上着,n,"coat, jacket"
+87,え,絵,"n,n-suf","picture, drawing, painting, sketch"
+88,えいが,映画,n,"movie, film"
+89,えいがかん,映画館,n,"movie theatre (theater), cinema"
+90,えいご,英語,n,the English language
+91,ええ,,"conj,int,n",yes
+92,えき,駅,n,station
+93,エレベーター,,n,elevator
+94,～えん,～円,n,yen (currency)
+95,えんぴつ,鉛筆,n,pencil
+96,お～,,prefix,honourable ～ (honorific)
+97,おいしい,,adj,"delicious, tasty"
+98,おおい,多い,adj,many
+99,おおきい,大きい,adj,big

@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Jlpt N5 Kanji Kotlin</string>
+    <string name="start_kanji_game">Start Kanji game.</string>
+    <string name="text_wrap_test">This is some sample There is so much text her. Why would anyone need so mucg text? Unless they are trying to test something ;)</string>
+</resources>
